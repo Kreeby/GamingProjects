@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="acm">
+    <archive path="/Users/kreeby/Downloads/acm.jar" />
+  </library>
+</eclipse-userlibraries>
+
